@@ -1,10 +1,28 @@
 {
     "profile": {
-      "id": "7amdnlw87262nsb_87jsmskjnaksd",
-      "name": "Robinson Paz",
-      "imageUrl": "https://images.pexels.com/photos/4940300/pexels-photo-4940300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=300",
-      "somet": "a"
+        "id": "7amdnlw87262nsb_87jsmskjnaksd",
+        "name": "Robinson Paz",
+        "major": "Software Engineer",
+        "bio": "I believe in hard work! Super excited to keep improving the quality of life of those that use my products.",
+        "imageUrl": "https://images.pexels.com/photos/4940300/pexels-photo-4940300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=300",
+        "info": {
+            "pdf": "https://static1.squarespace.com/static/5d2ddd877baf420001b2daba/t/5f0cd818dc7b1a496e02c012/1594677277812/Robinson%2BPaz.pdf",
+            "graduation": "June 2020",
+            "school": "Brigham Young University"
+        },
+        "videos": [
+                {
+                    "title": "My Skills!",
+                    "creationDate": "June 2020",
+                    "url": "https://stream.livestreamfails.com/video/5baed037dee0f.mp4",
+                    "duration": "30",
+                    "gifUrl": "https://"
+                }
+            ]
+        }
+
     },
+
     "feed": [
         {
             "id": "feed_001",
