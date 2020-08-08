@@ -52,6 +52,7 @@
             }
         ]
     },
+
     "feed": [
         {
             "id": "feed_001",
@@ -172,6 +173,13 @@
             "postSubtitle": "Product Manager",
             "videoUrl": "https://stream.livestreamfails.com/video/5b9d5cd0f121e.mp4",
             "note": "We are looking for a self starter who can get any job done that we need in any type of coding environment. Microsoft is in need of great developers that can handle many of the different projects we have…"
+        }
+    ],
+
+    "companies": [
+        {
+            "id": "comp_001",
+            "name": "M"
         }
     ]
 }
