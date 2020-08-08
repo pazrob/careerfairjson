@@ -5,14 +5,12 @@
         "major": "Software Engineer",
         "bio": "I believe in hard work! Super excited to keep improving the quality of life of those that use my products.",
         "imageUrl": "https://images.pexels.com/photos/4940300/pexels-photo-4940300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=300",
+        "email": "robinson@gmail.com",
+        "phone": "(801) 657-8962",
         "info": {
-            "pdf": "https://static1.squarespace.com/static/5d2ddd877baf420001b2daba/t/5f0cd818dc7b1a496e02c012/1594677277812/Robinson%2BPaz.pdf",
+            "pdfUrl": "https://static1.squarespace.com/static/5d2ddd877baf420001b2daba/t/5f0cd818dc7b1a496e02c012/1594677277812/Robinson%2BPaz.pdf",
             "graduation": "June 2020",
             "school": "Brigham Young University"
-        },
-        "privateInfo": {
-            "email": "robinson@gmail.com",
-            "phone": "(801) 657-8962"
         },
         "interests": {
             "internship": true,
