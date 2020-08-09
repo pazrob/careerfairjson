@@ -52,7 +52,6 @@
             }
         ]
     },
-
     "feed": [
         {
             "id": "feed_001",
@@ -175,11 +174,83 @@
             "note": "We are looking for a self starter who can get any job done that we need in any type of coding environment. Microsoft is in need of great developers that can handle many of the different projects we have…"
         }
     ],
-
     "companies": [
         {
             "id": "comp_001",
-            "name": "M"
+            "name": "Podium",
+            "headline": "Machine learning at its best",
+            "bio": "We work with you to get the best of the best. Let's build something great! Let's build the new world.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Podium_Logo_Official.png",
+            "email": "hrmanager@bamboohr.com",
+            "phone": "(801) 1222-8962",
+            "aboutUsVideos": [
+                {
+                    "id": "vid_001",
+                    "title": "Vision",
+                    "creationDate": "June 2020",
+                    "url": "https://stream.livestreamfails.com/video/5baed037dee0f.mp4",
+                    "duration": "30",
+                    "gifUrl": "https://"
+                },
+                {
+                    "id": "vid_002",
+                    "title": "Our Campus",
+                    "creationDate": "Feb 2020",
+                    "url": "https://stream.livestreamfails.com/video/5b0708e575662.mp4",
+                    "duration": "28",
+                    "gifUrl": "https://"
+                },
+                {
+                    "id": "vid_003",
+                    "title": "Benefits",
+                    "creationDate": "Dec 2019",
+                    "url": "https://stream.livestreamfails.com/video/5b4fc189ac34a.mp4",
+                    "duration": "10",
+                    "gifUrl": "https://"
+                },
+                {
+                    "id": "vid_004",
+                    "title": "From the CEO",
+                    "creationDate": "Jan 2019",
+                    "url": "https://stream.livestreamfails.com/video/5b9d5cd0f121e.mp4",
+                    "duration": "25",
+                    "gifUrl": "https://"
+                }
+            ],
+            "jobPostingVideos": [
+                {
+                    "id": "vp_001",
+                    "title": "iOS Engineer II",
+                    "creationDate": "June 2020",
+                    "url": "https://stream.livestreamfails.com/video/5baed037dee0f.mp4",
+                    "duration": "30",
+                    "gifUrl": "https://"
+                },
+                {
+                    "id": "vp_002",
+                    "title": "Python Senior Engineer",
+                    "creationDate": "Feb 2020",
+                    "url": "https://stream.livestreamfails.com/video/5b0708e575662.mp4",
+                    "duration": "28",
+                    "gifUrl": "https://"
+                },
+                {
+                    "id": "vp_003",
+                    "title": "Web Developer",
+                    "creationDate": "Dec 2019",
+                    "url": "https://stream.livestreamfails.com/video/5b4fc189ac34a.mp4",
+                    "duration": "10",
+                    "gifUrl": "https://"
+                },
+                {
+                    "id": "vp_004",
+                    "title": "Backend Developer",
+                    "creationDate": "Jan 2019",
+                    "url": "https://stream.livestreamfails.com/video/5b9d5cd0f121e.mp4",
+                    "duration": "25",
+                    "gifUrl": "https://"
+                }
+            ]
         }
     ]
 }
