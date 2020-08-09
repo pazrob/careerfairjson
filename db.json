@@ -203,6 +203,18 @@
                     "gifUrl": "https://"
                 }
             ]
+        },
+        {
+            "id": "comp_002",
+            "name": "Apple"
+        },
+        {
+            "id": "comp_003",
+            "name": "Google"
+        },
+        {
+            "id": "comp_004",
+            "name": "Facebook"
         }
     ]
 }
