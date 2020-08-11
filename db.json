@@ -66,18 +66,6 @@
             "note": "We are looking for a self starter who can get any job done that we need in any type of coding environment. Microsoft is in need of great developers that can handle many of the different projects we have."
         },
         {
-            "id": "feed_002",
-            "type": "company",
-            "author": {
-                "authorId": "comp_002",
-                "name": "Apple",
-                "imageUrl": "https://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png"
-            },
-            "postSubtitle": "Product Manager Entry",
-            "videoUrl": "https://stream.livestreamfails.com/video/5c6797ab1a640.mp4",
-            "note": "We are looking for a self starter who can get any job done that we need in any type of coding environment. Microsoft is in need of great developers that can handle many of the different projects we have…"
-        },
-        {
             "id": "feed_003",
             "type": "company",
             "author": {
@@ -123,6 +111,18 @@
             },
             "postSubtitle": "Product Manager",
             "videoUrl": "https://stream.livestreamfails.com/video/5bde5a2496a8f.mp4",
+            "note": "We are looking for a self starter who can get any job done that we need in any type of coding environment. Microsoft is in need of great developers that can handle many of the different projects we have…"
+        },
+        {
+            "id": "feed_002",
+            "type": "company",
+            "author": {
+                "authorId": "comp_002",
+                "name": "Apple",
+                "imageUrl": "https://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png"
+            },
+            "postSubtitle": "Product Manager Entry",
+            "videoUrl": "https://stream.livestreamfails.com/video/5c6797ab1a640.mp4",
             "note": "We are looking for a self starter who can get any job done that we need in any type of coding environment. Microsoft is in need of great developers that can handle many of the different projects we have…"
         }
     ],
