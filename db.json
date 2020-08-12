@@ -24,39 +24,39 @@
                 "creationDate": "June 2020",
                 "url": "https://stream.livestreamfails.com/video/5baed037dee0f.mp4",
                 "duration": "30",
-                "gifUrl": "https://images.pexels.com/photos/5054776/pexels-photo-5054776.jpeg"
+                "gifUrl": "https://images.pexels.com/photos/5054776/pexels-photo-5054776.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             },
             {
                 "id": "vid_002",
                 "title": "iOS Love",
                 "creationDate": "Feb 2020",
-                "url": "https://images.pexels.com/photos/4443538/pexels-photo-4443538.jpeg",
+                "url": "https://stream.livestreamfails.com/video/5b0708e575662.mp4",
                 "duration": "28",
-                "gifUrl": "https://"
+                "gifUrl": "https://images.pexels.com/photos/4443538/pexels-photo-4443538.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             },
             {
                 "id": "vid_003",
                 "title": "My education",
                 "creationDate": "Dec 2019",
-                "url": "https://images.pexels.com/photos/3577561/pexels-photo-3577561.jpeg",
+                "url": "https://stream.livestreamfails.com/video/5b4fc189ac34a.mp4",
                 "duration": "10",
-                "gifUrl": "https://"
+                "gifUrl": "https://images.pexels.com/photos/3577561/pexels-photo-3577561.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             },
             {
                 "id": "vid_004",
                 "title": "Check out my apps!",
                 "creationDate": "Jan 2019",
-                "url": "https://images.pexels.com/photos/3561339/pexels-photo-3561339.jpeg",
+                "url": "https://stream.livestreamfails.com/video/5b9d5cd0f121e.mp4",
                 "duration": "25",
-                "gifUrl": "https://"
+                "gifUrl": "https://images.pexels.com/photos/2756842/pexels-photo-2756842.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             },
             {
                 "id": "vid_005",
-                "title": "My debug",
+                "title": "A.I.",
                 "creationDate": "Jan 2019",
-                "url": "https://images.pexels.com/photos/2756842/pexels-photo-2756842.jpeg",
+                "url": "https://stream.livestreamfails.com/video/5b9d5cd0f121e.mp4",
                 "duration": "25",
-                "gifUrl": "https://"
+                "gifUrl": "https://images.pexels.com/photos/1092422/pexels-photo-1092422.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             }
         ]
     },
