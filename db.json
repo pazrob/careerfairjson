@@ -126,7 +126,7 @@
                     "creationDate": "June 2020",
                     "url": "https://stream.livestreamfails.com/video/5baed037dee0f.mp4",
                     "duration": "30",
-                    "gifUrl": "https://"
+                    "gifUrl": "https://images.pexels.com/photos/7070/space-desk-workspace-coworking.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=100"
                 },
                 {
                     "id": "vid_002",
@@ -134,7 +134,7 @@
                     "creationDate": "Feb 2020",
                     "url": "https://stream.livestreamfails.com/video/5b0708e575662.mp4",
                     "duration": "28",
-                    "gifUrl": "https://"
+                    "gifUrl": "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=100"
                 },
                 {
                     "id": "vid_003",
@@ -142,7 +142,7 @@
                     "creationDate": "Dec 2019",
                     "url": "https://stream.livestreamfails.com/video/5b4fc189ac34a.mp4",
                     "duration": "10",
-                    "gifUrl": "https://"
+                    "gifUrl": "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=100"
                 },
                 {
                     "id": "vid_004",
@@ -150,7 +150,7 @@
                     "creationDate": "Jan 2019",
                     "url": "https://stream.livestreamfails.com/video/5b9d5cd0f121e.mp4",
                     "duration": "25",
-                    "gifUrl": "https://"
+                    "gifUrl": "https://images.pexels.com/photos/233698/pexels-photo-233698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=100"
                 }
             ],
             "jobPostingVideos": [
@@ -191,14 +191,6 @@
         {
             "id": "comp_002",
             "name": "Apple"
-        },
-        {
-            "id": "comp_003",
-            "name": "Google"
-        },
-        {
-            "id": "comp_004",
-            "name": "Facebook"
         }
     ]
 }
